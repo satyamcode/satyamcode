@@ -1,4 +1,4 @@
-<img align="center"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw0D1fD-chpBSfL5h2uyf8wJ&ust=1676530515269000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCghY35lv0CFQAAAAAdAAAAABAE" alt="">
+<img align="center"  src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FCircularFlakyLadybird-max-1mb.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fcircularflakyladybird&tbnid=fm6oKvYPQL5h9M&vet=12ahUKEwjzwofv6pX9AhXzQXwKHQ_2BO0QMygWegUIARDMAg..i&docid=WatLm16Ke782BM&w=1366&h=705&q=animated%20coding%20gif&ved=2ahUKEwjzwofv6pX9AhXzQXwKHQ_2BO0QMygWegUIARDMAg" alt="">
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 <h3 align="center">A full stack developer</h3>
 
