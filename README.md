@@ -1,4 +1,4 @@
-<img align="center"  src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="">
+<img align="center"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw0D1fD-chpBSfL5h2uyf8wJ&ust=1676530515269000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCghY35lv0CFQAAAAAdAAAAABAE" alt="">
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 <h3 align="center">A full stack developer</h3>
 
